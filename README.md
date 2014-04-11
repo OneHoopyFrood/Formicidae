@@ -81,6 +81,7 @@ the graphics started with the colonies repo.)
 - Prey
 	+ Caterpillar
 		- Moves in straight line
+		
 ### Ideas
 
 - More complex AI
