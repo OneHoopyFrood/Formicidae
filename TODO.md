@@ -2,16 +2,16 @@
 
 - [ ] Ants
 	+ [ ] Ant Sprites
-		- [ ] Base
-			+ [ ] Queen
-			+ [ ] Worker
-			+ [ ] Soldier
-			+ [ ] Breeder
+		- [x] Base
+			+ [x] Queen
+			+ [x] Worker
+			+ [x] Soldier
+			+ [x] Breeder
+		- [ ] Walk-cycle
 	+ [ ] Health
 		- [ ] Decreases over time
 		- [ ] Priority to fulfil becomes more urgent
 		- [ ] Death results if not met within x amount of frames
-	+ [ ] Walk-cycle
 	+ [ ] Movement
 		- [ ] A* path-finding
 		+ [ ] Click/Tap to move ant
